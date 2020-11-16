@@ -111,12 +111,12 @@ author:
   avatar           : "/assets/images/IMG_20200929_131048.jpg"
   bio              : I'm an learner of Computer Science at IUST. I enjoy learning new things about computer and math.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  email            : rezapour21147@gmail.com
+  twitter: 
+  linkedin: 
+  google_scholar: 
+  github: rzapour21147
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/rezapour21147"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
