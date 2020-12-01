@@ -1,6 +1,5 @@
 ---
 layout: posts
-comments : true 
 title: the result of conversations
 --- 
 
@@ -13,4 +12,4 @@ title: the result of conversations
 در دروس پایه ای مثل ریاضی1 وفیزیک1 و ... از کتاب **707** استفاده کنید که بشدت بکارتان می آید. معمولا در دروس پایه ای تمرینات تو طول ترم سخت تر از سوالات امتحان است.
 یک زبان برنامه نویسی را بطور کامل یاد گرفتن بهتر یاد گرفتن چند زبان برنامه نویسی بطور متوسط است.
 دروسی مانند تاریخ،منطق و... را نگذارید جمع شود بلکه آن ها را در طول ترم بین درس هایتان جا دهید.
-![amir hossien samavat]({{rezapour21147.github.io}}/asserts/images/2.jpg "amir hossien samavat")
+![alt text]({{rezapour21147.github.io}}/asserts/images/2.jpg "amir hossien samavat")
