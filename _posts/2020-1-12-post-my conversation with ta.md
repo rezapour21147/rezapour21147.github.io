@@ -1,10 +1,9 @@
 ---
 layout: posts
-title: the result of conversations
+title: conversations with teacher assistance
 --- 
 
-# مصاحبه اول
-## آقای امیر حسین سماوات
+# آقای امیر حسین سماوات
 ![amir hossien samavat](assets\images\tmp_1606852522905.jpg"amir hossien samavat")
 <div dir="rtl">
     در کل در رشته مهندسی کامپیوتر بیشتر وقت رو روی دروسی که به برنامه نویسی  مربوط هستند بزارید زیرا دروس دیگر در آینده آنچنان بدرد نخواهند
