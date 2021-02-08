@@ -10,6 +10,6 @@ title: پروژه موسیقی
 <br>یکی از بدترین چالش هایی که با آن رو به رو بودم این بود که صدا ها با هم همخوانی نداشتند و خیلی سخت بود که بتوانم آن ها را هماهنگ کنم.
 </div>
 <audio controls>
-    <source src="https://soundcloud.com/ryq0h6dduyae/music" type="audio/wav">
+    <source src="C:\git\fc\FC99001\sonic pi\music.wav" type="audio/wav">
 </audio>
 
