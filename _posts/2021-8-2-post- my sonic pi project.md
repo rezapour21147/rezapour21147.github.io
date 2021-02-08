@@ -12,4 +12,5 @@ title: پروژه موسیقی
 <audio controls>
     <source src="C:\git\fc\FC99001\sonic pi\music.wav" type="audio/wav">
 </audio>
+[music](https://soundcloud.com/ryq0h6dduyae/music)
 
